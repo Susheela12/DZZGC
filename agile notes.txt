@@ -1,0 +1,62 @@
+core java
+	Applets-->client side program-->create web pages
+
+
+j2ee-->java 2 enterprise edition
+	servlets,JSP,Struts,EJB,SPrings....
+
+
+Presentation (UI)-->
+
+Business
+
+dataaccess
+
+
+Agile:
+
+is a iterative and incremental  approach
+
+Terminologies:
+
+scrum: is a framework used to implement agile process. 
+Through scrum we can build s/w product by using agile principles.
+
+scrum team:
+	--product owner-->talks to the customer
+	--scrum master-->makes sure that other team members are following Agile process or not
+	-- Developement team
+	--QA team
+
+user story:A feature or modules in a software
+
+Epic:Collection of user stories
+
+Product backlog:contains list of all user stories
+
+Sprint:period of time to design,code,develop and test the complete user stories
+Each sprint may take 2 0r 4 weeks
+
+Sprint planning meeting:meeting conducted with the 
+team to define what can be delivered in the sprint
+
+Sprint backlog:list of committed stories by developers/QA
+for specific sprint.
+i.e, in a list of product backlog dev/QA will choose only few to develop and test
+
+scrum meeting:meeting conducted by scrum master every 15 mins.
+	--what did you do yesterday
+	-- what will you do today
+	-- are there any implements in your way
+
+Sprint retrospective meeting: conducts meeting after completion of sprint.
+To discuss what went wrong/wright
+
+story point: Rough estimation of user stories, will be given by 
+dev/QA in the form of FIBONOCCI series
+
+burndown chart:shows how much work remaining int he sprint, maintained by the scrum master
+
+
+
+scrum
